@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working on Php and Flutter projects
 - 📫 Contact-me here: valmorflores@gmail.com
-<font color="red">Data</font>
+
+<div style="color: #f2f2f2">Data</div>
+
 <div style="background: $fff">
 <a target="_blank" href="https://www.linkedin.com/in/valmorflores/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
