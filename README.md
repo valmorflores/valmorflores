@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Php and Flutter projects
 - 📫 Contact-me here: valmorflores@gmail.com
 
-<div style="color: #f2f2f2">Data</div>
+<div style="color: #000">Data</div>
 
 <div style="background: $fff">
 <a target="_blank" href="https://www.linkedin.com/in/valmorflores/">
